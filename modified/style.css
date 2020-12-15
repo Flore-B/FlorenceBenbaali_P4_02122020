@@ -10,9 +10,19 @@ body {
 a,
 button {
     transition: all .3s ease-in-out;
-    outline: none!important;
+        /*outline: none!important;*/
+}
+a:focus  {
+    outline: 3px solid #000000;
 }
 
+button:focus {
+    outline: 3px solid #000000!important;
+}
+
+.btn:focus {
+    outline: 4px solid #ffffff;
+}   
 a:hover {
     text-decoration: none;
     cursor: pointer;
@@ -459,9 +469,9 @@ nav .caret {
     background: rgba(0, 0, 0, .3);
 }
 
-button {
+/*button {
     outline: none!important;
-}
+}*/
 
 .btn-rd {
     border-radius: 40px;
