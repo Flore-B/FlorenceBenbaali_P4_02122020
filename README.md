@@ -8,7 +8,7 @@
 <li>Justifier ces choix ;</li>
 <li>Ajouter la bonne pratique à mettre en place pour chaque partie du site qui n’est pas optimisée ;</li>
 <li>Sélectionner 10 recommandations pour améliorer le site ;</li>
-<li>Ajouter les éléments nécessaires pour améliorer l'accessibilité suivant la liste qui se trouve à cette adresse <a href="https://developer.mozilla.org/fr/docs/Accessibilit%C3%A9/Checklist_accessibilite_mobile">.</li>
+<li>Ajouter les éléments nécessaires pour améliorer l'accessibilité suivant la liste qui se trouve à cette <a href="https://developer.mozilla.org/fr/docs/Accessibilit%C3%A9/Checklist_accessibilite_mobile">adresse.</li>
 </ul>
 <h2>Amélioration du SEO du site</h2>
 <ul>
